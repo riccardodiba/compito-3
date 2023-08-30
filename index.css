@@ -1,0 +1,60 @@
+
+#logo{
+    display: flex;
+    justify-content: center;
+
+}
+#sottotitolo{
+    text-align: center;
+    color: aqua;
+
+}
+#focaccia{
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+
+}
+.paragrafo {
+    text-align: center;
+
+}
+#foc{
+    display: flex;
+    justify-content: center;
+}
+p {
+    text-align: center;
+    color: gray;
+}
+a {
+    text-align: left;
+
+}
+.for{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+#i{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#medium{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#f{
+    width: 600px;
+    margin-right: auto;
+        margin-left: auto;
+        color: red;
+}
+
